@@ -1,5 +1,5 @@
 
-#Transcribe videos into text using OpenAI
+# Transcribe videos into text using OpenAI
 
 To run the Python script that transcribes videos into text files using OpenAI, follow these steps:
 
