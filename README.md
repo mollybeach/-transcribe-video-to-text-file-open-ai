@@ -20,5 +20,5 @@ pip3 install pydub
 python3 video_transcription.py
 </code></pre>
 
-5. Find the output transcription in /transcriptions
+5. Find the output transcription for the video in the transcriptions directory
 
