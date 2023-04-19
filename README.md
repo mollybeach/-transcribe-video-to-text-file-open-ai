@@ -13,10 +13,12 @@ pip3 install pydub
 </code></pre>
 
 
-3. Upload the video: Upload the video that you want to transcribe into text to the same directory where you saved the Python script.
+3. Upload the video: Upload the video that you want to transcribe into text to the /videos directory
 4. Run the script: Run the script by typing the following command in the terminal or command prompt:
 
 <pre><code>
 python3 video_transcription.py
 </code></pre>
+
+5. Find the output transcription in /transcriptions
 
